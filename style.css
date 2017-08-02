@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  color: #FFF000;
+  color: #4c4c4c;
   font-family: 'Muli', sans-serif;
   font-size: 70px;
   font-weight: 900;
@@ -17,8 +17,9 @@ h1 {
 }
 
 h2 {
-  color: #FFFBBB;
+  color: #4c4c4c;
   font-family: 'Muli', sans-serif;
+  text-align: center;
   margin: 0;
   text-align: left;
 }
