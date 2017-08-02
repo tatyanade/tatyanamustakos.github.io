@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300|Muli');
+
+body {
+  padding: 2;
+  margin: 2;
+  background-color: #fffaef;
+  text-align: center;
+}
+
+h1 {
+  color: #FFF000;
+  font-family: 'Muli', sans-serif;
+  font-size: 70px;
+  font-weight: 900;
+  margin: 0;
+  padding-top: 120px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #FFFBBB;
+  font-family: 'Muli', sans-serif;
+  margin: 0;
+  text-align: left;
+}
+
+
+p {
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10;
+  text-align: center;
+}
+
+.project-img {
+  display: inline-block;
+  margin-top: 15px;
+}
