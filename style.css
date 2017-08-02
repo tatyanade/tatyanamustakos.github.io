@@ -31,6 +31,12 @@ p {
   text-align: center;
 }
 
+.image-series {
+  margin: 50px auto;
+  padding: 10px 5px 5px 5px;
+  width: 90%;
+}
+
 .project-img {
   display: inline-block;
   margin-top: 15px;
